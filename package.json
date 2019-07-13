@@ -9,6 +9,7 @@
   "author": "Evan Summers <evan.summers@gmail.com> (https://github.com/evanx)",
   "license": "ISC",
   "dependencies": {
+    "eslint": "^6.0.1",
     "lodash": "^3.6.0",
     "request": "^2.54.0"
   }
